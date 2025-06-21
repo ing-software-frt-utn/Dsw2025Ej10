@@ -4,7 +4,7 @@
 
 A partir de la lista de productos que se obtiene de __Producto.CrearListaDeEjemplo()__
 
-Resolver:
+Resolver :
 
 	1. El primer producto 
 	2. El último producto
