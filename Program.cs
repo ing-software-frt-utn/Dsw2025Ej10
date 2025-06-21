@@ -17,6 +17,7 @@
              * 9. Obtener y mostrar los productos cuyo precio sea mayor al promedio
              * 10. Listar los productos ordenados por descripción de forma descendente
              * Cada punto se debe realizar en un método distinto, en una nueva clase llamada Solucion
+             
              */
         }
     }
